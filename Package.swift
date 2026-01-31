@@ -15,7 +15,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/exyte/MediaPicker.git",
+            url: "https://github.com/JustinLau9/MediaPicker",
             from: "3.2.4"
         ),
         .package(
